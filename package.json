@@ -1,0 +1,25 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "Application for manage tasks",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elltete/TaskApp.git"
+  },
+  "keywords": [
+    "bankend",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Diego Ponzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elltete/TaskApp/issues"
+  },
+  "homepage": "https://github.com/elltete/TaskApp#readme"
+}
